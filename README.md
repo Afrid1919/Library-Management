@@ -35,7 +35,7 @@ Ensure all dependencies are included and configured.
 
 ## Run the Application
 - Execute the main class (e.g., Main.java) to start the application.
-- 
+  
 ## Usage
 - Admin Functions: Access the admin panel to manage books and users.
 - User Functions: Users can borrow and return books, check due dates, and search for available titles.
